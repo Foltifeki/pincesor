@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: olive;
+}
+body{
+	
+}
+
+.box{
+	height: 100%; 
+	background-color: olive;
+	padding: 20px;
+}
+
+.box img{
+	 display: block;
+	 max-width: 100%; 
+	 margin: 10px auto;
+}
+
+.box h2{
+	color: khaki;
+	margin: 10px 0;
+	text-align: center;
+}
+.bw{
+	margin-bottom: 30px;
+}
+.szoveg{
+	
+	padding: 20px;
+	text-align: justify;
+
+}
+
+.szoveg p{
+	font-size: 20px;
+	margin: 10px 0;
+}
+
+.also{
+	display: block;
+	padding: 5px 10px;
+	background-color: olive;
+	color: lightyellow;
+	text-align: center;
+	font-size: 20px;
+	margin: 5px;
+}
+.forr{
+	
+		
+}
+.forr a{
+	text-decoration: none;
+	font-size: 18px;
+}
+.forr a:hover{
+	color: yellowgreen;
+}
+.forr span{
+	font-weight: bold;
+	font-size: 18px;
+}
